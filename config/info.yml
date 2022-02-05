@@ -1,0 +1,12 @@
+project:
+  name: q2q
+  owner: CS169L-22
+  teamId: birdingmap
+  identities:
+    pivotal: 'https://www.pivotaltracker.com/projects/2553035'
+    heroku: 'https://birdingmap.herokuapp.com/'
+  notifications: {}
+  members:
+    member1:
+      name: Debbie
+      surname: Yuen

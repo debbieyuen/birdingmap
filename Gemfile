@@ -85,4 +85,3 @@ group :test do
   gem 'cucumber-rails-training-wheels' # basic imperative step defs like "Then I should see..."
   gem 'database_cleaner' # required by Cucumber
 end
-
