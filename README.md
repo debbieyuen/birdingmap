@@ -1,4 +1,5 @@
 # README
+[![Bluejay Dashboard](https://img.shields.io/badge/Bluejay-Dashboard_birdingmap-blue.svg)](http://dashboard.bluejay.governify.io/dashboard/script/dashboardLoader.js?dashboardURL=https://reporter.bluejay.governify.io/api/v4/dashboards/tpa-CS169L-22-GH-debbieyuen_birdingmap/main)]
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
