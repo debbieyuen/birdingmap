@@ -4,7 +4,8 @@ project:
   teamId: birdingmap
   identities:
     pivotal: 'https://www.pivotaltracker.com/projects/2553035'
-    heroku: 'https://birdingmap.herokuapp.com/'
+    heroku: 'https://sleepy-mesa-39329.herokuapp.com/'
+    codeclimate: 'https://codeclimate.com/github/debbieyuen/baytrailbirding'
   notifications: {}
   members:
     member1:
